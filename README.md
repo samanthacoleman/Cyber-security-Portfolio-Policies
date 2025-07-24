@@ -21,3 +21,8 @@ No, all sections are part and parcel of the said document.
 
 7. Are the definitions in alphabetical order?
 No, the policy, "MFA" comes before "Least Privilege it should be reordered to maintain the policy standards.
+
+
+
+
+For CISO, they must underatnd policies, securit plan and security contros
