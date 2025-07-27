@@ -26,3 +26,6 @@ No, the policy, "MFA" comes before "Least Privilege it should be reordered to ma
 
 
 For CISO, they must underatnd policies, securit plan and security contros
+
+Cryptography.
+
